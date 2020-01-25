@@ -1,3 +1,3 @@
-Tu trouveras ici mes deux exercices pour le projet Data Scientist !
+The Hacking Project Week 2
 
-Bonne correction ! :) 
+Data Scientist exercises in Ruby
